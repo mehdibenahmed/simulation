@@ -19,7 +19,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKe
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
-'testhediiggg\r\n\r\n'
+'testhediigggfeds\r\n\r\n'
 WebUI.delay(0)
 
 WebUI.navigateToUrl('')
