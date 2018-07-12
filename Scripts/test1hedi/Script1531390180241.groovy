@@ -22,3 +22,9 @@ import internal.GlobalVariable as GlobalVariable
 'testhediiiiiiiiiiiiiii\r\n\r\n'
 WebUI.delay(0)
 
+WebUI.navigateToUrl('')
+
+WebUI.maximizeWindow()
+
+WebUI.maximizeWindow()
+
