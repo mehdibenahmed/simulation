@@ -24,3 +24,11 @@ WebUI.delay(0)
 
 WebUI.navigateToUrl('')
 
+WebUI.maximizeWindow()
+
+WebUI.maximizeWindow()
+
+WebUI.navigateToUrl('')
+
+WebUI.acceptAlert()
+
