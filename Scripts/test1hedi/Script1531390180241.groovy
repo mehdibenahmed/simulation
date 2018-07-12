@@ -24,7 +24,3 @@ WebUI.delay(0)
 
 WebUI.navigateToUrl('')
 
-WebUI.maximizeWindow()
-
-WebUI.maximizeWindow()
-
